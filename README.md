@@ -6,7 +6,7 @@ O Aplicativo feito se chama Chippo e você pode baixá-lo [aqui](https://github.
 
 ## Preview:
 
-<img src="https://github.com/Knightleo602/TrabalhosPUCPR/blob/main/EC/Visualizer3D/preview.gif">
+<img src="https://github.com/TrabalhosPUCPR/Visualizer3D/blob/main/preview.gif">
 
 - A música que está no data é "I wanna be the boshy - Boss 7 - Megaman"
 
